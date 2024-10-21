@@ -1,0 +1,15 @@
+{
+  "name": "express-2",
+  "version": "1.0.0",
+  "description": "Sprint 1 - Practico 3 - Express - Actividad 2",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.mjs"
+  },
+  "author": "Matias Damian Sanchez Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

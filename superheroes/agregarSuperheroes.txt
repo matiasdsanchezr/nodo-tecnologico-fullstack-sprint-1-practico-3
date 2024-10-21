@@ -1,0 +1,25 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "Superman",
+    "nombreReal": "Clark Kent",
+    "nombreSociedad": "Sociedad de la Justicia",
+    "edad": 37,
+    "planetaOrigen": "Krypton",
+    "debilidad": "Criptonita",
+    "poder": [
+      "Super fuerza",
+      "Super velocidad",
+      "Visión de calor",
+      "Visión de rayos X",
+      "Aliento sobrehumano"
+    ],
+    "habilidadEspecial": "Vuelo",
+    "aliado": [
+      "Lois Lane"
+    ],
+    "enemigo": [
+      "Lex Luthor"
+    ]
+  }
+]
